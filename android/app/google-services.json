@@ -1,22 +1,22 @@
 {
   "project_info": {
-    "project_number": "411216902652",
-    "firebase_url": "https://smarthydroponic-f1a49-default-rtdb.asia-southeast1.firebasedatabase.app",
-    "project_id": "smarthydroponic-f1a49",
-    "storage_bucket": "smarthydroponic-f1a49.firebasestorage.app"
+    "project_number": "",
+    "firebase_url": "",
+    "project_id": "",
+    "storage_bucket": ""
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:411216902652:android:4a99e69eb916acdc161a79",
+        "mobilesdk_app_id": "",
         "android_client_info": {
-          "package_name": "com.example.app1"
+          "package_name": ""
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAvezixLn72J8jJTiIUKUuPZ3T1hMJEjSg"
+          "current_key": ""
         }
       ],
       "services": {
